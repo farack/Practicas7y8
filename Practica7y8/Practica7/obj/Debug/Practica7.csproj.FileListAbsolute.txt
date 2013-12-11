@@ -1,0 +1,10 @@
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\Practica7.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica7_8\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\Toshiba\Documents\GitHub\Practica7_8\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica7_8\Practica7\Practica7\obj\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\GitHub\Practica7_8\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\Toshiba\Documents\GitHub\Practica7_8\Practica7\Practica7\obj\Debug\Practica7.pdb
